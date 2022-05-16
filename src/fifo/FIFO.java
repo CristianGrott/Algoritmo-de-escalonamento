@@ -44,10 +44,6 @@ public class FIFO {
             }
         }
         
-        //for(int i=0; i<n_processos; i++){
-          //  System.out.println(tempo_execucao[i]);
-        //}
-        
         //SAÍDA DE DADOS
         System.out.println("===========================================");
         
